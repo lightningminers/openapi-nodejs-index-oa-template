@@ -1,0 +1,1 @@
+# openapi-nodejs-index-oa-template
